@@ -1,0 +1,146 @@
+body{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    }
+.top-container{
+    background-color:antiquewhite;
+    margin:0;
+   
+}
+
+.up-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+  
+    
+}
+h1{
+font-style: italic;
+color: red;
+}
+.middle-container{
+    background-color:#ECB390;
+}
+.down-cloud{
+    position:absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.lit{
+    font-size: 40px;
+    color:red ;
+
+}
+.pro{
+    text-decoration: underline;
+}
+.my-image{
+    padding-top: 10px;
+}
+h2{
+    font-size:xx-large;
+   font-style: italic;
+   color: aqua;
+   padding-bottom: 0px;
+}
+.myintro{
+    font-size:20px;
+    color: aqua;
+    font-style: normal;
+    width: 35%;
+    margin: auto;
+    padding-top: 0px;
+}
+
+.skill-row{
+    position: relative;
+    padding-bottom:10px;
+}
+hr{
+    border: dotted 4px;
+    width: 10%;
+    border-bottom: none;
+    color: chocolate;
+}
+.btn {
+    background: aqua;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color:aqua;
+    font-size: 22px;
+    padding: 10px 20px 5px 20px;
+    text-decoration: underline;
+  }
+  
+  .btn:hover {
+    background:red;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: underline;
+  }
+  .myd{
+    color: aqua;
+    font-size: 20px;
+    width: 30%;
+    margin: auto;
+  }
+.dd{
+    font-size: 40px;
+    color: aqua;
+    font-style: italic;
+    padding-top: 0px;
+
+}
+.football{
+    font-size: 35px;
+    color: aqua;
+    font-style: italic;
+    
+}
+.spo{
+    font-size: 25px;
+    font-style: normal;
+    color: aqua;
+    width: 30%;
+    margin: auto;
+}
+p{
+    line-height: 2;
+}
+.bottom-container{
+    width: 100%;
+    height: 5%;
+    background-color: blueviolet;
+    padding:0px 0px 0px 0px;
+}
+a{
+    padding-top: 15px;
+    color: cyan;
+    margin: 5px 10px;
+}
+.touch{
+    color: aqua;
+    width: 30%;
+    font-size: 25px;
+    margin:auto;
+}
+a:hover{
+    color:red;
+
+}
+.cpyrt{
+    color: brown;
+    font-size: 15px;
+}
